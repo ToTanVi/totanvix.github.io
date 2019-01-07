@@ -1,4 +1,4 @@
-# Youtbe API Vuejs - Search Youtube video and load comment video
+# Youtube API Vuejs - Search Youtube video and load comment video
 
 ## Project setup
 ```
